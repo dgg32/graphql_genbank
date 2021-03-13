@@ -19,7 +19,7 @@ genome2json (https://github.com/gamcil/genome2json, MIT license)
 
 requests_aws4auth
 
-boto3
+boto3 (You also need to configure your Boto3 [credentials](https://boto3.amazonaws.com/v1/documentation/api/latest/guide/credentials.html) beforehand, best with AWS CLI)
 
   
   
