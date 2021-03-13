@@ -5,7 +5,7 @@
 
   
 
-This repository contains code and data for my article "Build Your Own GraphQL GenBank in AWS".
+This repository contains code and data for my article "[Build Your Own GraphQL GenBank in AWS](https://dgg32.medium.com/build-your-own-graphql-genbank-in-aws-a9e9eaeb712a)".
 1. The data folder contains three GBK files. They were used in the tutorial
 
 2. The scripts are for import and demo client.
