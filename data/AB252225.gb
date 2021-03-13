@@ -1,0 +1,85 @@
+LOCUS       AB252225                1845 bp    DNA     linear   BCT 07-JAN-2012
+DEFINITION  Nostoc commune petH gene for ferredoxin-NADP+ oxidoreductase,
+            complete cds, country: China.
+ACCESSION   AB252225
+VERSION     AB252225.1
+KEYWORDS    .
+SOURCE      Nostoc commune
+  ORGANISM  Nostoc commune
+            Bacteria; Cyanobacteria; Nostocales; Nostocaceae; Nostoc.
+REFERENCE   1
+  AUTHORS   Arima,H., Horiguchi,N., Takaichi,S., Kofuji,R., Ishida,K.I.,
+            Wada,K. and Sakamoto,T.
+  TITLE     Molecular genetic and chemotaxonomic characterization of the
+            terrestrial cyanobacterium Nostoc commune and its neighboring
+            species
+  JOURNAL   FEMS Microbiol. Ecol. (2011) In press
+   PUBMED   22066798
+  REMARK    Publication Status: Available-Online prior to print
+REFERENCE   2  (bases 1 to 1845)
+  AUTHORS   Sakamoto,T.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (02-MAR-2006) Contact:Toshio Sakamoto Kanazawa
+            University, School of Natural System, College of Science and
+            Engineering; Kakuma, Kanazawa, Ishikawa 920-1192, Japan
+FEATURES             Location/Qualifiers
+     source          1..1845
+                     /organism="Nostoc commune"
+                     /mol_type="genomic DNA"
+                     /db_xref="taxon:1178"
+                     /country="China"
+                     /PCR_primers="fwd_seq: tgactcattattaacattctcc, rev_seq:
+                     ttgacaattgattctaaatctg"
+                     /note="16S rRNA sequence has been deposited under the
+                     accession number, AB251863."
+     gene            220..1530
+                     /gene="petH"
+     CDS             220..1530
+                     /gene="petH"
+                     /note="FNR"
+                     /codon_start=1
+                     /transl_table=11
+                     /product="ferredoxin-NADP+ oxidoreductase"
+                     /protein_id="BAG70316.1"
+                     /translation="MYNQGAVEGAANTELGSRIFLYEVVGLRQSEETDQTNYPIRKSG
+                     SVFIRVPYNRMNQEMRRITRLGGTIVSIQPVTALQPVNGKASLGNAXSEVSELGXSXE
+                     TANSEGNGKATPVNAHSAEENKDKKGNTMTQAKAKKDHGDVPVNTYRPNAPFIGKVIS
+                     NEPLVKEGGIGIVQHLKFDLSGSDLKYIEGQSIGIIPPGXDKNGKPEKLRLYSIASTR
+                     HGDDVDDKTVSLCVRQLEYKHPETSETVYGVCSTHLCFLKPGEEVKITGPVGKEMLLP
+                     NDPDANVIMMATGTGIAPMRAYLWRQFKDAERAANPEYQFKGFSWLIFGVPTTPNLLY
+                     KEELEEIQQKYPDNFRLTAAISREQKNPQGGRMYIQDRVAEHADELWQLIKNEKTHTY
+                     ICGLRGMEEGIDAALTAAAAKEGVTWSDYQKQLKKGGRWHVETY"
+ORIGIN      
+        1 acaagactta tcctttacct tagaaggtga acaggtgtgt tttttgctat gcctgcatgt
+       61 ctttggtgag tgtacttagc aaggcattaa tttaatgatg ccgtttttcc atcatggcta
+      121 gttttgtgaa acgaaaatcc gctaaactaa agctgacatg ggatgggaat agtttttttt
+      181 tgaaaaacgg ttaagtaaat tatcggagtg gtagaacgaa tgtacaatca aggtgctgtt
+      241 gagggtgctg ccaacacaga attaggtagc cgcatcttcc tttatgaagt agtgggtttg
+      301 cgtcagagcg aagaaactga tcaaactaac tacccaattc ggaaaagtgg cagtgtgttc
+      361 atcagagtgc cttacaaccg catgaatcaa gaaatgcgac gtatcactcg tctaggcggc
+      421 acaattgtta gcatccaacc tgtaactgcg ctacagccag ttaatggtaa agcctcactt
+      481 gggaatgcta mtagcgaagt cagcgagtta ggtayatctr gggaaactgc taacagtgaa
+      541 gggaatggta aagccacacc tgtgaatgct catagtgctg aagagaacaa ggacaagaaa
+      601 ggcaacacca tgactcaagc gaaagccaaa aaagaccacg gtgacgttcc tgttaayact
+      661 taccgtccca atgctccgtt tattggcaag gtaatatcta atgaaccgct agtcaaagaa
+      721 ggcggtattg gtattgtcca acaccttaaa tttgacctat ctggcagtga tttaaagtat
+      781 atagaaggtc aaagtattgg gattattcca ccaggaktrg acaagaacgg caagccggaa
+      841 aaactcagay tatattccat cgcytcaact cgtcatggcg atgatgtgga tgayaagaca
+      901 gtatcactgt gcgtccgcca gttggagtac aagcacccag aaactagcga aacagtctac
+      961 ggkgtttgct ctacgcacct gtgtttcctc aagccagggg aagaggtaaa aattaccggg
+     1021 cctgtgggta aggaaatgtt gttacccaat gaccctgatg ctaatgtcat catgatggca
+     1081 accggaacag gtattgcgcc gatgcgggct tatctgtggc gtcagtttaa agatgcggaa
+     1141 agagcagcta acccagaata ccaatttaaa ggattctctt ggttaatatt tggcgtacca
+     1201 acaactccaa acctcttata taaggaagaa ctggaagaaa ttcaacaaaa atatcctgay
+     1261 aacttccgyc tcactgctgc tatcagccgc gaacagaaaa atccccaagg cggtagaatg
+     1321 tatattcaag accgcgtagc wgaacaygct gatgaattgt ggcarttgat taaaaatgaa
+     1381 aaaacycaca cctacatctg cggtttgcgc ggtatggaag aaggtatcga tgcagcctta
+     1441 actgctgctg ctgctaagga aggcgtaacc tggagtgatt accagaagca actcaagaaa
+     1501 ggcggtcgct ggcacgtaga aacttactaa attgmgtcat tagtcattgg tcattagtca
+     1561 ttagttttag acaaaggacg aagggcgaag racaaaygac aaaggaagca ggatmatcag
+     1621 taggtagggc aaaygctcta cctacaattt ttattggtgt tgggtgcaaa atgggtgtga
+     1681 aactaggaat actgggatta ggcaccgtgg gaacgggaac agtgcagttg ttgcaagata
+     1741 gcgctgggcg tcacccattg ttgcaagaga tagaaatcta tcgggtggga gtgcgatcgc
+     1801 tmgataaacc ccgtgcagta gaattatcta cggaagtctt aacaa
+//
+

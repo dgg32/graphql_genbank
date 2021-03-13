@@ -1,0 +1,72 @@
+LOCUS       FJ157956                 517 bp    DNA     linear   BCT 27-MAY-2015
+DEFINITION  Methylobacterium marchantiae strain JT1 collection-date 2003 from
+            Germany methanol dehydrogenase alpha subunit (mxaF) gene, partial
+            cds.
+ACCESSION   FJ157956
+VERSION     FJ157956.1
+KEYWORDS    .
+SOURCE      Methylobacterium marchantiae
+  ORGANISM  Methylobacterium marchantiae
+            Bacteria; Proteobacteria; Alphaproteobacteria; Rhizobiales;
+            Methylobacteriaceae; Methylobacterium.
+REFERENCE   1  (bases 1 to 517)
+  AUTHORS   Schauer,S., Kampfer,P., Wellner,S., Sproer,C. and Kutschera,U.
+  TITLE     Methylobacterium marchantiae sp. nov., a pink-pigmented,
+            facultatively methylotrophic bacterium isolated from the thallus of
+            a liverwort
+  JOURNAL   Int. J. Syst. Evol. Microbiol. 61 (PT 4), 870-876 (2011)
+   PUBMED   20495043
+REFERENCE   2  (bases 1 to 517)
+  AUTHORS   Schauer,S. and Kutschera,U.
+  TITLE     Characterization of Methylobacterium strains isolated from plant
+            surfaces
+  JOURNAL   Unpublished
+REFERENCE   3  (bases 1 to 517)
+  AUTHORS   Schauer,S. and Kutschera,U.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (24-AUG-2008) Institute of Biology, University of Kassel,
+            Heinrich-Plett-Strasse 40, Kassel 34109, Germany
+FEATURES             Location/Qualifiers
+     source          1..517
+                     /organism="Methylobacterium marchantiae"
+                     /mol_type="genomic DNA"
+                     /strain="JT1"
+                     /isolation_source="phyllosphere (thallus)"
+                     /host="Marchantia polymorpha"
+                     /type_material="type strain of Methylobacterium
+                     marchantiae"
+                     /db_xref="taxon:600331"
+                     /country="Germany"
+                     /lat_lon="51.3156 N 9.4067 E"
+                     /collection_date="2003"
+                     /collected_by="Jessica Thomas"
+                     /identified_by="Stefan Schauer"
+                     /PCR_primers="fwd_name: f1003, fwd_seq:
+                     gcggcaccaactggggctggt, rev_name: r1561, rev_seq:
+                     gggcagcatgaagggctccc"
+                     /note="type strain of Methylobacterium marchantiae"
+     gene            <1..>517
+                     /gene="mxaF"
+     CDS             <1..>517
+                     /gene="mxaF"
+                     /note="partial"
+                     /codon_start=1
+                     /transl_table=11
+                     /product="methanol dehydrogenase alpha subunit"
+                     /protein_id="ACN51398.1"
+                     /translation="YAYDPGTNLIYFGTGNPAPWNETMRPGDNKWTMTIFGRDADTGE
+                     AKFGYQKTPHDEWDYAGVNVMMLSNQKDKDGKDRKLLTHPDRNGIVYTLDRTDGSLVS
+                     ANKIDDTVNVFKSVDLKTGQPVRDPEYGTRMDHLAKDICPSAMGYHNQGHDSYDPERK
+                     LFFMGINHICMD"
+ORIGIN      
+        1 tacgcctacg atccgggcac caacctgatc tatttcggca ccggcaaccc ggcgccgtgg
+       61 aacgagacca tgcgtcccgg cgacaacaag tggacgatga ccatcttcgg ccgtgacgcc
+      121 gataccggtg aagccaagtt cggctaccag aagaccccgc acgacgagtg ggattacgct
+      181 ggcgtcaacg tgatgatgct gtcgaaccag aaggacaagg acggcaagga tcgcaagctc
+      241 ctgacccatc cggaccggaa cggcatcgtc tataccctcg accggaccga cggttcgctc
+      301 gtctcggcca acaagatcga cgacacggtc aacgtgttca agtcggtgga cctgaagacc
+      361 ggtcagccgg tgcgcgatcc cgaatacgga acccggatgg accacctcgc caaggacatc
+      421 tgtccctcgg cgatgggcta tcacaaccag ggccacgatt cctacgatcc cgagcgcaag
+      481 ctcttcttca tgggcatcaa ccacatctgc atggatt
+//
+

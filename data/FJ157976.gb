@@ -1,0 +1,82 @@
+LOCUS       FJ157976                1421 bp    DNA     linear   BCT 27-MAY-2015
+DEFINITION  Methylobacterium marchantiae strain JT1 collection-date 2003 from
+            Germany 16S ribosomal RNA gene, partial sequence.
+ACCESSION   FJ157976
+VERSION     FJ157976.2
+KEYWORDS    .
+SOURCE      Methylobacterium marchantiae
+  ORGANISM  Methylobacterium marchantiae
+            Bacteria; Proteobacteria; Alphaproteobacteria; Rhizobiales;
+            Methylobacteriaceae; Methylobacterium.
+REFERENCE   1  (bases 1 to 1421)
+  AUTHORS   Schauer,S., Kampfer,P., Wellner,S., Sproer,C. and Kutschera,U.
+  TITLE     Methylobacterium marchantiae sp. nov., a pink-pigmented,
+            facultatively methylotrophic bacterium isolated from the thallus of
+            a liverwort
+  JOURNAL   Int. J. Syst. Evol. Microbiol. 61 (PT 4), 870-876 (2011)
+   PUBMED   20495043
+REFERENCE   2  (bases 1 to 1421)
+  AUTHORS   Schauer,S. and Kutschera,U.
+  TITLE     Characterization of Methylobacterium strains isolated from plant
+            surfaces
+  JOURNAL   Unpublished
+REFERENCE   3  (bases 1 to 1421)
+  AUTHORS   Schauer,S. and Kutschera,U.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (24-AUG-2008) Institute of Biology, University of Kassel,
+            Heinrich-Plett-Strasse 40, Kassel 34109, Germany
+REFERENCE   4  (bases 1 to 1421)
+  AUTHORS   Schauer,S. and Kutschera,U.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (18-DEC-2009) Institute of Biology, University of Kassel,
+            Heinrich-Plett-Strasse 40, Kassel 34109, Germany
+  REMARK    Sequence update by submitter
+COMMENT     On Dec 18, 2009 this sequence version replaced FJ157976.1.
+FEATURES             Location/Qualifiers
+     source          1..1421
+                     /organism="Methylobacterium marchantiae"
+                     /mol_type="genomic DNA"
+                     /strain="JT1"
+                     /isolation_source="phyllosphere (thallus)"
+                     /host="Marchantia polymorpha"
+                     /type_material="type strain of Methylobacterium
+                     marchantiae"
+                     /db_xref="taxon:600331"
+                     /country="Germany"
+                     /lat_lon="51.3156 N 9.4067 E"
+                     /collection_date="2003"
+                     /collected_by="Jessica Thomas"
+                     /identified_by="Stefan Schauer"
+                     /PCR_primers="fwd_name: FGPS6, fwd_seq:
+                     ggagagttagatcttggctcag, rev_name: FGPS1509, rev_seq:
+                     aaggaggggatccagccgca"
+                     /note="type strain of Methylobacterium marchantiae"
+     rRNA            <1..>1421
+                     /product="16S ribosomal RNA"
+ORIGIN      
+        1 tggcggcagg cttaacacat gcaagtcgag cgggcacttc ggtgtcagcg gcagacgggt
+       61 gagtaacacg tgggaacgta cccttcggtt cggaataacg ctgggaaact agcgctaata
+      121 ccggatacgc ccttatgggg aaaggtttac tgccgaagga tcggcccgcg tctgattagc
+      181 tagttggtgg ggtaacggcc taccaaggcg acgatcagta gctggtctga gaggatgatc
+      241 agccacactg ggactgagac acggcccaga ctcctacggg aggcagcagt ggggaatatt
+      301 ggacaatggg cgcaagcctg atccagccat gccgcgtgag tgatgaaggc cttagggttg
+      361 taaagctctt ttgtccggga cgataatgac ggtaccggaa gaataagccc cggctaactt
+      421 cgtgccagca gccgcggtaa tacgaagggg gctagcgttg ctcggaatca ctgggcgtaa
+      481 agggcgcgta ggcggccatt caagtcgggg gtgaaagcct gtggctcaac cacagaattg
+      541 ccttcgatac tgtttggctt gagtatggta gaggttggtg gaactgcgag tgtagaggtg
+      601 aaattcgtag atattcgcaa gaacaccggt ggcgaaggcg gccaactgga ccattactga
+      661 cgctgaggcg cgaaagcgtg gggagcaaac aggattagat accctggtag tccacgccgt
+      721 aaacgatgaa tgccagctgt tggggtgctt gcacctcagt agcgcagcta acgctttaag
+      781 cattccgcct ggggagtacg gtcgcaagat taaaactcaa aggaattgac gggggcccgc
+      841 acaagcggtg gagcatgtgg tttaattcga agcaacgcgc agaaccttac catcccttga
+      901 catggcatgt tacccggaga gattcggggt ccacttcggt ggcgtgcaca caggtgctgc
+      961 atggctgtcg tcagctcgtg tcgtgagatg ttgggttaag tcccgcaacg agcgcaaccc
+     1021 acgtccttag ttgccatcat tcagttgggc actctaggga gactgccggt gataagccgc
+     1081 gaggaaggtg tggatgacgt caagtcctca tggcccttac gggatgggct acacacgtgc
+     1141 tacaatggcg gtgacagtgg gaggcgaagg agcgatctgg agcaaatccc caaaaaccgt
+     1201 ctcagttcag attgcactct gcaactcgag tgcatgaagg cggaatcgct agtaatcgtg
+     1261 gatcagcatg ccacggtgaa tacgttcccg ggccttgtac acaccgcccg tcacaccatg
+     1321 ggagttggtc ttacccgacg gcgctgcgcc aaccgcaagg aggcaggcga ccacggtagg
+     1381 gtcagcgact ggggtgaagt cgtaacaagg tagccgtagg g
+//
+
