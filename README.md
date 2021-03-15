@@ -27,7 +27,7 @@ boto3 (You also need to configure your Boto3 [credentials](https://boto3.amazona
 # Scripts
 gbk_to_dynamodb.py is used to import GBK files into DynamoDB. Change the "table_name" if you named your DynamoDB differently. Usage:
 
-      python gbk_to_dynamodb.py [GBK_file]
+    python gbk_to_dynamodb.py [GBK_file]
 
 query.py and config.py are our demo client. First fill in the endpoint and api key in config.py as stated in my article. Then run:
 
